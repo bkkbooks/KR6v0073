@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR6v0073/zw/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通理大師集作供梵歎如常依慈氏禮聲志心歸命禮法身非相應化非真福智無比無為福勝一相無相化無所化無斷無滅法界通化莊嚴淨土如理實見離色離相一切佛寶志心歸命禮善現啟請尊重正教無法可得依法出生一合相理法會因由大乘正宗無得無說持經功德如法受持非說所說一切法寶志心歸命禮妙行無住正信希有離相寂滅能淨業障一體同觀威儀寂靜究竟無我知見不生淨心行善不受不貪無諍三昧一切僧寶志心普奉為三十二分滿一十八住圓二十七疑遣德海難思議四恩並七趣法界諸群生罪障皆消滅速圓般若海志心懺悔志心普懺願先身有報障今日受持經暫被人輕賤轉重復還輕唯願八金剛清淨四菩薩我今與眾生速圓般若海唱處世界處世界如虛空如蓮花不著水心清淨超於彼稽首禮無上尊吟廻向偈我以普賢殊勝行無邊勝福皆廻向普願沈溺諸眾生速往無量光佛所志心普命十身無礙佛法報化三身願共諸眾生皆共成佛道志心普命十藏甚深法戒定慧三乘願共諸眾生皆共成佛道志心普命十地聖賢僧上中下三根願共諸眾生皆共成佛道禮懺歸依竟所集諸聖因施一切群生皆共成佛道錄文完方廣錩修訂終審
+  hash: sha256:1f72982630344a5561998757727f88ea2ad6345c248f8a346f5516403c7d9e4f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 金剛禮一本, id: KR6v0073_ZW_001-juan-start, juan_n: '001', jhead: 金剛禮一本}
+  - {type: 其他, offset: 5, content: 作供、梵歎如常，依慈氏禮聲, id: KR6v0073_ZW_001-mulu-1, level: '2'}
+  - {type: 其他, offset: 220, content: 志心懺悔, id: KR6v0073_ZW_001-mulu-2, level: '2'}
+  - {type: 其他, offset: 269, content: 唱處世界, id: KR6v0073_ZW_001-mulu-3, level: '2'}
+  - {type: 其他, offset: 297, content: 吟廻向偈, id: KR6v0073_ZW_001-mulu-4, level: '2'}
+metadata:
+  title: 金剛禮
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0060.xml
+    old_id: ZW07n0060
+hash: sha256:1166090043d276a05bb9e6a4c2983a4b29204e3fc219d42dc793e76b8b4ef7cf

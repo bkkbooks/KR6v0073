@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6v0073/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0073/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛禮
+  identifiers:
+    krp: KR6v0073
+    cbeta: ZW07n0060
+    cbeta_old_id: ZW07n0060
+    authorityid: CA0008472
+    json_key: ZW0060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0060.xml
+    old_id: ZW07n0060
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0073_000-ZW.yaml, hash: 'sha256:ed748443f1b749814b9b68994f251d4eb70ce9ae33a438da7bdcd00a618f7347'}
+  - {seq: 1, filename: KR6v0073_001-ZW.yaml, hash: 'sha256:1166090043d276a05bb9e6a4c2983a4b29204e3fc219d42dc793e76b8b4ef7cf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0073_000-ZW.markers.yaml, hash: 'sha256:55090bea9c144dfdcd9569c38d1cc39a41a8dcab53f9277a8a7efd1fad992584'}
+  - {seq: 1, role: markers, filename: assets/KR6v0073_001-ZW.markers.yaml, hash: 'sha256:fab4908834bcc97ba71f4fc831266445b34656b850aac7c5a11fc65bcfb75b45'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0073_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0073_ZW_000-mulu-2
+    span:
+    - front
+    - 1253
+    - 1253
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 431
+  label: 金剛禮一本
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 作供、梵歎如常，依慈氏禮聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-2
+    span:
+    - body
+    - 220
+    - 220
+  label: 志心懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-3
+    span:
+    - body
+    - 269
+    - 269
+  label: 唱處世界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-4
+    span:
+    - body
+    - 297
+    - 297
+  label: 吟廻向偈
+  type: mulu
+  level: 1
+hash: sha256:46e4a5d929cb69682b37048c7f7ad31761d3bae23e68b3cfd671a714ae8b1498

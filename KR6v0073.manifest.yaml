@@ -1,0 +1,100 @@
+canonical_identifier: bkk:krp/KR6v0073/v1
+canonical_location: https://kanripo.org/bkk/KR6v0073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛禮
+  identifiers:
+    alt_id:
+    - W07n0060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0060.xml
+    old_id: ZW07n0060
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0073_000.yaml, hash: 'sha256:5e2756135ae3fd8c0f239195271ad015605799fa40c3a29f72bb35f93e323963'}
+  - {seq: 1, filename: KR6v0073_001.yaml, hash: 'sha256:24173f740781e8a0fa6656260ec09ff062ebf34257236792e33752b381ef3f80'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0073_000.markers.yaml, hash: 'sha256:7b17ffd536e28374b1e335631330137ec542577399c61b29a65a58e51e503930'}
+  - {seq: 1, role: markers, filename: assets/KR6v0073_001.markers.yaml, hash: 'sha256:7e3f7dcf06c9d4f290c44ae0ee84958078ace8a260fb745c13d05c3509bcd06a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0073_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0073_ZW_000-mulu-2
+    span:
+    - front
+    - 1253
+    - 1253
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 431
+  label: 金剛禮一本
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 作供、梵歎如常，依慈氏禮聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-2
+    span:
+    - body
+    - 220
+    - 220
+  label: 志心懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-3
+    span:
+    - body
+    - 269
+    - 269
+  label: 唱處世界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0073_ZW_001-mulu-4
+    span:
+    - body
+    - 297
+    - 297
+  label: 吟廻向偈
+  type: mulu
+  level: 1
+hash: sha256:54644b2fbdfeeeffe9c496481f64df42fe510d5764a11be966db1792b14e5761
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
